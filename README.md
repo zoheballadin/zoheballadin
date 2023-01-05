@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Express routes and middlewares
 - 🌱 I’m currently learning Full-Stack Web Development using MERN stack

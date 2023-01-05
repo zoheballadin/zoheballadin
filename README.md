@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a hardworking and passionate Full-Stack Developer <br>with a logical mindset and a never ending curiosity for information.<br>I write detailed blogs about Web Development on medium : https://medium.com/@zoheballadin1 <br>I love solving problems.<br>How to reach me: zoheballadin1@gmail.com<br>
+I am a hardworking and passionate Full-Stack Developer with a logical mindset and a never ending curiosity for information.<br>I write detailed blogs about Web Development on medium : https://medium.com/@zoheballadin1 <br>I love solving problems.<br>How to reach me: zoheballadin1@gmail.com<br>
 
 
 ## 🌐 Socials:

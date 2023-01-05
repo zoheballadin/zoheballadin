@@ -2,10 +2,10 @@
 
 
 
-- 🔭 I’m currently working on Express routes and middlewares
+- 🔭 I’m currently working on my web-development skills
 - 🌱 I’m currently learning Full-Stack Web Development using MERN stack
 - 👯 I’m looking to collaborate on full-stack projects
-- 🤔 I’m looking for help with CSS 
+- 🤔 I solve leetcode problems 
 - 💬 Ask me about vanilla JavaScript
 - 📫 How to reach me: zoheballadin1@gmail.com
 - ⚡ Fun fact: I like food 

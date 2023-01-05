@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**zoheballadin/zoheballadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about vanilla JavaScript
 - 📫 How to reach me: zoheballadin1@gmail.com
 - ⚡ Fun fact: I like food 
--->
+

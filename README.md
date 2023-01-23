@@ -14,9 +14,9 @@ I am a hardworking and passionate Full-Stack Developer with a logical mindset an
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=zoheballadin)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
+<!-- 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zoheballadin&icon=0&color=8)](https://visitcount.itsvg.in)
